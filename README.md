@@ -5,30 +5,30 @@
 <br>
 
 ## **SCRIPT SCREENSHOTS**
-#
-## Home Page
+
+### Home Page
 ![usrhomepage](docs/images/home-page.PNG)
 
-## Add Contact
+### Add Contact
 ![usradd](docs/images/add-contact.PNG)
 
-## Sample Error-Handling
+### Sample Error-Handling
 ![usrerror](docs/images/error-handling.PNG)
 
-## Edit Contact
+### Edit Contact
 ![usredit](docs/images/edit-contact.PNG)
 
-## Delete Contact
+### Delete Contact
 ![usrdelete](docs/images/delete-contact.PNG)
 
-## View Contact
+### View Contact
 ![usrview](docs/images/view-contact.PNG)
 
-## Sort Contact
+### Sort Contact
 ![usrsort](docs/images/sort-contact.PNG)
 
-## Search via Keyword
+### Search via Keyword
 ![usrkeyword](docs/images/search-keyword.PNG)
 
-## Load Contact
+### Load Contact
 ![usrload](docs/images/load-contact.PNG)
